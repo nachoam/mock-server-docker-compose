@@ -1,0 +1,12 @@
+[
+    {
+      "httpRequest" : {
+        "method" : "GET",
+        "path" : "/api/v1/testing",
+      },
+      "httpResponse" : {
+        "body" : "{\"message\":\"ASV_CUSTOM_149923842\"\,\"status\":\"OK\"}",
+        "statusCode": 200
+      }
+    }
+  ]
