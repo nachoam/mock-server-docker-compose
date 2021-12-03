@@ -5,3 +5,9 @@ La configuración del filtro de end-points con sus correspondientes respuestas s
 Las modificaciones sobre ese fichero se recargan en caliente al activar el WATCH en el inicio
 
 [Mock-Server](https://www.mock-server.com/)
+
+## EXECUTE
+
+```
+docker-compose up   
+```
